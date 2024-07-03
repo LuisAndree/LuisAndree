@@ -20,7 +20,7 @@
 
 ## Entre em Contato
 
-- LinkedIn: [linkedin](https://www.linkedin.com/in/luis-andre-ts/)
+- LinkedIn: https://www.linkedin.com/in/luis-andre-ts/
 - Email: andre2016999@gmail.com
 ---
 ⭐️ Se você gostou do meu perfil, não esqueça de me seguir e explorar meus projetos!
