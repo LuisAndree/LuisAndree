@@ -14,10 +14,6 @@
 - **Bancos de Dados:** MySQL, PostgreSQL, MongoDB
 - **Outras Ferramentas:** Git, VSCode, Android Studio
 
-## Estatísticas de Contribuição
-
-[![Estatísticas de Contribuição](https://github-readme-stats.vercel.app/api?username=LuisAndree&show_icons=true&theme=dark)](https://github.com/LuisAndree)
-
 ## Entre em Contato
 
 - LinkedIn: https://www.linkedin.com/in/luis-andre-ts/
