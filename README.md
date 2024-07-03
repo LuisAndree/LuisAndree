@@ -10,9 +10,9 @@
 ## Habilidades e Tecnologias
 
 - **Linguagens de Programação:** JavaScript, TypeScript, Java, Kotlin, C, Python
-- **Frameworks e Bibliotecas:** Node, React, Vue, Android Studio 
+- **Frameworks e Bibliotecas:** Node, React, Vue
 - **Bancos de Dados:** MySQL, PostgreSQL, MongoDB
-- **Outras Ferramentas:** Git
+- **Outras Ferramentas:** Git, VSCode, Android Studio
 
 ## Estatísticas de Contribuição
 
@@ -20,8 +20,8 @@
 
 ## Entre em Contato
 
-- LinkedIn: [](https://www.linkedin.com/in/luis-andre-ts/)
-- Email: [](andre2016999@gmail.com)
+- LinkedIn: [linkedin](https://www.linkedin.com/in/luis-andre-ts/)
+- Email: [email](andre2016999@gmail.com)
 ---
 ⭐️ Se você gostou do meu perfil, não esqueça de me seguir e explorar meus projetos!
 
