@@ -1,4 +1,4 @@
-# Olá, eu sou Luis André! 👋
+# Olá, eu sou Luís André! 👋
 
 ## Sobre Mim
 
